@@ -129,5 +129,3 @@ dmypy.json
 
 *wav
 .pyre/
-
-config.py
