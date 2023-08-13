@@ -2,8 +2,8 @@ import sounddevice as sd
 import wavio as wv
 import datetime
 
-freq = 44100
-duration = 5 # in seconds
+freq = 60000
+duration = 8 # in seconds
 
 print('Recording')
 
